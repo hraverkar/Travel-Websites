@@ -1,5 +1,3 @@
-
-import React from 'react';
 import Hero from '../components/Hero';
 import TourPackage from '../components/TourPackage';
 import Itinerary from '../components/Itinerary';
